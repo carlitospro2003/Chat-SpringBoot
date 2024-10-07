@@ -1,0 +1,13 @@
+package com.QuiboSocketsChat.QuiboSocketsChat;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class QuiboSocketsChatApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
